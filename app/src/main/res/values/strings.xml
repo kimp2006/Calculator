@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="addition">+</string>
+    <string name="subtraktion">-</string>
+    <string name="division">/</string>
+    <string name="multiplikation">*</string>
+    <string name="roten_ur">√</string>
+    <string name="procent">%</string>
+    <string name="pythagoras_sats">pythagoras sats</string>
+    <string name="cirkelns_area">cirkelns area</string>
+    <string name="cylinderns_volym">cylinderns volym</string>
+
+    <string name="första_siffran">Ange den första siffran</string>
+    <string name="andra_siffran">Ange den andra siffran</string>
+    <string name="resultat">Resultat: </string>
+</resources>
